@@ -1,3 +1,4 @@
+//this is a binary building programme by preorder and inorder, cout by preorder
 #include<iostream>
 #include<algorithm>
 #include<vector>
